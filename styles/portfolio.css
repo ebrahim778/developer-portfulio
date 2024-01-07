@@ -102,7 +102,7 @@ padding:15px 35px;
 }
 .one{
     max-width: 1140px;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 /* about section */
@@ -124,9 +124,12 @@ padding:15px 35px;
     display:flex;
     justify-content: space-around;
 }
+
+
 .about-info
 {
     text-align:center;
+
 }   
 
 #my-description{
@@ -175,4 +178,10 @@ margin: 30px ;
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+footer{
+    display:flex;
+    background:#da9c71;
+    margin:100px;
+    padding: 130px 200px;
 }
